@@ -1,15 +1,14 @@
 #  Maratona Explorer 3.0 
 
-![preview](./.github/rocketcoffe.png)
+![preview](./.github/calculadora%20de%20propinas.png)
 
 
-> Trilha Explorer 
+> Maratona One Bit Code
 
-Projeto construido Na maratona Explorer  da Rocketseat.
+Projeto construido Na maratona de One Bit Code
 
-👉🏼[Clique aqui para accessar](https://jose26362780.github.io/Maratona-Explorer-3.0/)
 
-👉🏼[Clique aqui para accessar](https://maratona-explorer-3-0.netlify.app/)
+👉🏼[Clique aqui para accessar](https://calculadora-propinas-1.netlify.app/)
 
 
 
@@ -19,16 +18,14 @@ Projeto construido Na maratona Explorer  da Rocketseat.
 - Html 
 - Css
 - Git e Github
+- Javascript
 
-##  🖥️ O que aprendi Nessa edição da MARATONA EXPLORER
-
-
-Foi construido um site completamente desde o zero com muita mão na massa, completamente responsivo orientado a um menu de restaurante 
+##  🖥️ O que aprendi Nessa edição da MARATONA 
 
 
-Para accesar a app pelo QR CODE
+Foi construido um site completamente desde o zero com muita mão na massa, tocando os conceitos principais de html, css e javascript por meio de uma calculadora de gorjetas
 
-![preview](./.github/QR%20code%20maratona.png)
+
 
 
 
