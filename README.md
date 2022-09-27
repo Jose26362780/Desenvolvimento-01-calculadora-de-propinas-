@@ -8,7 +8,7 @@
 Projeto construido Na maratona de One Bit Code
 
 
-👉🏼[Clique aqui para accessar](https://calculadora-propinas-1.netlify.app/)
+👉🏼[Clique aqui para accessar](https://jose26362780.github.io/Desenvolvimento-01-calculadora-de-propinas-/)
 
 
 
